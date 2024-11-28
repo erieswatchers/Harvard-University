@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+   margin: 0px;
+   padding: 0px;
+    background-color: #f4f4f4;
+}
+header {
+    background-color: #910f2d;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+header h1 {
+    margin: 0;
+}
+.container {
+    width: 90%;
+    margin: 0 auto;
+    padding: 2rem;
+}
+section {
+    background-color: rgba(255, 255, 255, 0.87);
+    margin-bottom: 1.5rem;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(72, 0, 0, 0.558);
+}
+h2 {
+    color: #980b2cc1;
+    list-style: lower-greek;
+}
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+li {
+    margin-bottom: 0.5rem;
+}
+#location, #scholarships, #costs {
+    margin-bottom: 2rem;
+}
+address {
+    font-style: normal;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+img {
+    width: 60px;
+}
+h3 {
+  text-align: center;
+  text-decoration: underline;
+}
